@@ -1,0 +1,475 @@
+.converted {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    background-color: #ffffff;
+  }
+  
+  .converted .frame {
+    display: flex;
+    width: 1700px;
+    height: 112px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 27px 50px 27px 90px;
+    position: relative;
+    background-color: #ffffff;
+  }
+  
+  .converted .nav-menu {
+    display: flex;
+    width: 542px;
+    height: 20px;
+    align-items: center;
+    gap: 92px;
+    padding: 3px 8px;
+    position: relative;
+    margin-left: -0.43px;
+    overflow: hidden;
+  }
+  
+  .converted .text-wrapper {
+    margin-top: -0.5px;
+    font-family: "Shippori Mincho-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--font-color);
+    position: relative;
+    width: fit-content;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    white-space: nowrap;
+  }
+  
+  .converted .div {
+    position: relative;
+    width: fit-content;
+    margin-top: -6.5px;
+    margin-bottom: -4.5px;
+    font-family: "Shippori Mincho-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--font-color);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0.36px;
+    line-height: 25.2px;
+    white-space: nowrap;
+  }
+  
+  .converted .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.5px;
+    margin-right: -8px;
+    font-family: "Shippori Mincho-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--font-color);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0.36px;
+    line-height: 25.2px;
+    white-space: nowrap;
+  }
+  
+  .converted .image-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0px 683px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -0.43px;
+  }
+  
+  .converted .image {
+    position: relative;
+    width: 325.85px;
+    height: 36.85px;
+  }
+  
+  .converted .group-wrapper {
+    display: inline-flex;
+    height: 533px;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    background-color: #ffffff;
+  }
+  
+  .converted .group {
+    position: relative;
+    width: 1700px;
+    height: 380px;
+  }
+  
+  .converted .overlap-wrapper {
+    height: 381px;
+  }
+  
+  .converted .overlap {
+    position: relative;
+    width: 1700px;
+    height: 381px;
+  }
+  
+  .converted .kigyouzyoho {
+    position: absolute;
+    width: 1700px;
+    height: 247px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .converted .component {
+    position: absolute;
+    width: 66px;
+    height: 166px;
+    top: 215px;
+    left: 817px;
+  }
+  
+  .converted .text-wrapper-3 {
+    position: absolute;
+    width: 29px;
+    top: 76px;
+    left: 18px;
+    font-family: "Shippori Mincho-Regular", Helvetica;
+    font-weight: 400;
+    color: #222222;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 32.1px;
+  }
+  
+  .converted .overlap-group {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    top: 0;
+    left: 0;
+    background-image: url(../img/Vector.png);
+    background-size: 100% 100%;
+  }
+  
+  .converted .text-wrapper-4 {
+    position: absolute;
+    width: 31px;
+    top: 21px;
+    left: 18px;
+    font-family: "Shippori Mincho-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .converted .title {
+    display: inline-flex;
+    align-items: center;
+    padding: 0px 0px 115px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .converted .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Shippori Mincho-Bold", Helvetica;
+    font-weight: 700;
+    color: #222222;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 10.85px;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .converted .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    padding: 2px 0px 130px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .converted .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 17px;
+    padding: 10px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .converted .vector {
+    position: relative;
+    width: 571.34px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .converted .img {
+    position: relative;
+    width: 48px;
+    height: 55.43px;
+    margin-top: -1.73px;
+    margin-bottom: -1.73px;
+  }
+  
+  .converted .text-wrapper-6 {
+    position: relative;
+    width: 360px;
+    font-family: "Shippori Mincho-Bold", Helvetica;
+    font-weight: 700;
+    color: #222222;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 2.7px;
+    line-height: 60px;
+  }
+  
+  .converted .frame-4 {
+    display: flex;
+    flex-direction: column;
+    height: 220px;
+    align-items: center;
+    gap: 64px;
+    padding: 8px 10px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .converted .p {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: "Shippori Mincho-Bold", Helvetica;
+    font-weight: 700;
+    color: #252525;
+    font-size: 30px;
+    text-align: center;
+    line-height: 60px;
+  }
+  
+  .converted .span {
+    letter-spacing: 6.9px;
+  }
+  
+  .converted .text-wrapper-7 {
+    letter-spacing: 9.3px;
+  }
+  
+  .converted .text-wrapper-8 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Shippori Mincho-Medium", Helvetica;
+    font-weight: 500;
+    color: #222222;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 5.8px;
+    line-height: 49.2px;
+  }
+  
+  .converted .component-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    height: 477px;
+    align-items: center;
+    padding: 10px 10px 414px;
+    position: relative;
+  }
+  
+  .converted .component-2 {
+    display: inline-flex;
+    height: 52px;
+    align-items: flex-start;
+    position: relative;
+  }
+  
+  .converted .div-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 132.05px;
+    height: 52px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    background-color: var(--font-color);
+  }
+  
+  .converted .text-wrapper-9 {
+    position: relative;
+    width: 56px;
+    font-family: "Shippori Mincho-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 5.2px;
+    line-height: 60px;
+  }
+  
+  .converted .frame-5 {
+    display: flex;
+    width: 383.15px;
+    height: 52px;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 24px;
+    position: relative;
+    margin-left: -0.15px;
+    background-color: #ffffff;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .converted .text-wrapper-10 {
+    position: relative;
+    width: 234px;
+    height: 56px;
+    margin-top: -13px;
+    margin-bottom: -11px;
+    font-family: "Shippori Mincho-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--font-color);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 9px;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .converted .frame-6 {
+    display: flex;
+    width: 1700px;
+    height: 235px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 143px;
+    padding: 70px 30px 60px;
+    position: relative;
+    background-color: #000000e6;
+  }
+  
+  .converted .frame-7 {
+    display: inline-flex;
+    height: 82px;
+    align-items: flex-start;
+    gap: 53px;
+    padding: 0px 0px 0px 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .converted .group-2 {
+    position: relative;
+    width: 236.14px;
+    height: 32.16px;
+  }
+  
+  .converted .element-TEL {
+    position: relative;
+    width: 509px;
+    height: 57px;
+    margin-top: -1px;
+    font-family: "Noto Sans JP-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 11px;
+    letter-spacing: 0.55px;
+    line-height: 18.7px;
+  }
+  
+  .converted .frame-8 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 127px;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+    flex: 0 0 auto;
+    margin-bottom: -22px;
+  }
+  
+  .converted .footer-nav {
+    display: flex;
+    width: 544.25px;
+    align-items: center;
+    justify-content: center;
+    gap: 87px;
+    padding: 3px 44px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .converted .text-wrapper-11 {
+    margin-top: -1px;
+    margin-left: -30.38px;
+    font-family: "Shippori Mincho-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--primary-light);
+    position: relative;
+    width: fit-content;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    white-space: nowrap;
+  }
+  
+  .converted .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Shippori Mincho-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--primary-light);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    white-space: nowrap;
+  }
+  
+  .converted .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    margin-right: -30.38px;
+    font-family: "Shippori Mincho-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--primary-light);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: -0.18px;
+    line-height: 25.2px;
+    white-space: nowrap;
+  }
+  
+  .converted .text-wrapper-14 {
+    position: relative;
+    width: 326px;
+    height: 104px;
+    font-family: "Century Gothic-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 11px;
+    text-align: center;
+    letter-spacing: 0.6px;
+    line-height: 15.4px;
+  }
+  
